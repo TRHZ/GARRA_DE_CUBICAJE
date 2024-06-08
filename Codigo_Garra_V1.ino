@@ -1,3 +1,11 @@
+
+// García Ramírez Fátima Guadalupe
+// Giffard Cortes Diana Valeria
+// Gutierrez Velazquez Diego Armando
+// Partida Contreras Luis Emilio
+// Patiño Cortez Ramsés
+// Zaragoza Ocón Kevin Alexandro
+
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
